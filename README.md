@@ -44,4 +44,11 @@ Parameters: pixels_per_cell=(8,8), cells_per_block=(2,2), orientations=9, C=10, 
 **Prediction**  
 Processed test images from test_ims, extracted HOG features, scaled them, and predicted labels using the trained SVM.  
 Results saved to test.csv.  
-
+## Results ##
+**Final Accuracy**: 75% on the test set.  
+**Key Improvements**:
+Data augmentation doubled the dataset, enhancing generalization.  
+Optimized HOG parameters and SVM settings boosted accuracy from 66.12% to 75%.  
+## Code Structure ##
+**Dependencies**  
+see the requirements.txt
