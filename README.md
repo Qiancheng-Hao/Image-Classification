@@ -51,4 +51,7 @@ Data augmentation doubled the dataset, enhancing generalization.
 Optimized HOG parameters and SVM settings boosted accuracy from 66.12% to 75%.  
 ## Code Structure ##
 **Dependencies**  
-see the requirements.txt
+see the requirements.txt  
+
+# After the competition # 
+We try to use CNN to retrain the data, and when to find the highest accuracy that we can reached .......
