@@ -52,4 +52,6 @@ Optimized HOG parameters and SVM settings boosted accuracy from 66.12% to 75%.
 ## Code Structure ##
 **Dependencies**  
 see the requirements.txt  
+### After the competition ###
+We want to get higher accuracy and implement the neural network, a more powerful AI model in the real world task, so we use Convolutional neural network(CNN).
 
